@@ -1,0 +1,1 @@
+# This is a blog which allows the user to create, post, update and delete their thoughts
