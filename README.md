@@ -19,4 +19,5 @@ To set this up on your machine as a development enviroment follow these steps: ð
 3. run the command "pip install -r requirements.txt" in your command line to install all the required packages
 4. to specify how to load the application run "export FLASK_APP=run.py" 
 5. now you can "flask run" the application
+6. to run the application in debug mode run the command "flask --app run --debug run"
 
