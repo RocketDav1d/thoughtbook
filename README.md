@@ -25,7 +25,7 @@ This diagram shows how the application is structured
 
 ### 🛠 Tools used and Reasoning behind it:
 
-#### Flask:
+#### Flask
 Flask is a web application framework written in Python. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. 
 
 #### Jinja2
