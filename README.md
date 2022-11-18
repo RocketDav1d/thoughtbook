@@ -4,6 +4,7 @@ This application allows users to share their thoughts.
 In detail this means uploading, updating and deleting posts.
 
 You can visit the app here:
+http://170.187.184.208/
 
 
 ## Documentation 📝
